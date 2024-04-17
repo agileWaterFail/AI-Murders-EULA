@@ -39,4 +39,6 @@ If any provision of this Agreement is held to be unenforceable or invalid, the r
 9. Entire Agreement:
 This Agreement constitutes the entire agreement between the User and the Company regarding the subject matter herein and supersedes all prior or contemporaneous agreements, communications, and proposals, whether oral or written, between the parties with respect to such subject matter.
 
+Privacy Policy: https://github.com/agileWaterFail/AI-Murders-privacy/blob/main/privacy-policy.md
+
 By accepting this Agreement, the User acknowledges that they have read, understood, and agree to be bound by all of its terms and conditions.
