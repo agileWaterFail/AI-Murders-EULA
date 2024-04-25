@@ -48,13 +48,16 @@ You shall promptly download and install all Updates and acknowledge and agree th
 10. Collection and Use of Your Information:
 You acknowledge that when you download, install, or use the App, Company may use automatic means (including, for example, cookies and web beacons) to collect information about your Mobile Device and about your use of the App. You also may be required to provide certain information about yourself as a condition to downloading, installing, or using the Application or certain of its features or functionality[, and the App may provide you with opportunities to share information about yourself with others]. All information we collect through or in connection with this App is subject to our [Privacy Policy](https://github.com/agileWaterFail/AI-Murders-privacy/blob/main/privacy-policy.md). By downloading, installing, using, and providing information to or through this Application, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
 
-11. Governing Law; Jurisdiction and Venue:
+11. Third-Party Advertising
+Our game utilizes third-party advertising services provided by Google AdMob. By using this game, you acknowledge and agree that third-party advertisements may be displayed within the game. You further acknowledge that these third-party ad networks may collect certain information as a result of serving ads to you, including but not limited to device identifiers, IP addresses, and usage data, in accordance with their respective privacy policies. Please note that we do not control the content of these advertisements, and we do not endorse or assume any responsibility for any products, services, or content advertised through these third-party services. You may have options to opt out of personalized advertising or ad tracking through your device settings or the settings provided by the ad network. Please refer to the privacy policies of the respective ad networks for more information. By using this game, you consent to the display of third-party advertisements and agree to hold harmless B2A Software LLC. from any liability arising from or related to the content or actions of third-party advertisements.
+
+12. Governing Law; Jurisdiction and Venue:
 a. This contract shall be governed by and construed in accordance with the laws of South Carolina. Any action made under this agreement shall only be brought in the state or federal courts located in Dorchester county, South Carolina.
 
-12. Severability:
+13. Severability:
 If any provision of this Agreement is held to be unenforceable or invalid, the remaining provisions shall remain in full force and effect.
 
-13. Entire Agreement:
+14. Entire Agreement:
 This Agreement constitutes the entire agreement between the User and the Company regarding the subject matter herein and supersedes all prior or contemporaneous agreements, communications, and proposals, whether oral or written, between the parties with respect to such subject matter.
 
 By accepting this Agreement, the User acknowledges that they have read, understood, and agree to be bound by all of its terms and conditions.
